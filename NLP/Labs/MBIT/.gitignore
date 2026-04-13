@@ -1,0 +1,10 @@
+.env
+.venv/
+.gradio/
+__pycache__/
+*.pyc
+artifacts/
+artifacts_slim.zip
+*.zip
+Lab 3 - Personality Profile Type.csv
+P2P-MBTI-Prediction/
